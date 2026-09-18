@@ -1,0 +1,29 @@
+MIT License (repository-level)
+
+Copyright (c) 2026 哈胜
+
+PERMISSION NOTICE — 请在适用本许可前先阅读 DECLARATION.md。
+
+本仓库整体按 MIT 许可发布，但存在以下明确限制，二者冲突时以本文件与
+DECLARATION.md 中更严格的条款为准：
+
+1. `skills/slcalc/` 目录内容的**算法与原始数据**来源于第三方公之于众版程序集，
+   其版权归原开发单位所有。本仓库提供的仅为其 **Python 改造实现**。
+   该部分**不得用于商业销售**。
+2. `skills/original/` 目录内容为作者原创，未经书面授权不得用于商业用途、
+   不得改编后再分发、不得用于训练同类产品。
+3. 保留署名：使用、引用、分发本仓库任何内容时，必须保留原程序作者署名
+   与来源说明。
+
+---
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

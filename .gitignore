@@ -1,0 +1,35 @@
+# 运行与缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 输出与临时
+*.log
+output/
+outputs/
+tmp/
+temp/
+*_output.csv
+*_result.json
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 密钥（绝不入库）
+*.key
+*.pem
+.env
+.env.*
+credentials.json
+secrets.json
+*_credentials*
